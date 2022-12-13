@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/c9/d6/3d/c9d63d032be23a7937e4d8d85f7a6650.gif)](https://mohsindev369.io)
 
 <h1 align="center">Hi 👋, I'm Mohsin</h1>
-<h3 align="center">I am a passionate full-stack developer from Pakistan</h3>
+<h3 align="center">I am a passionate full-stack developer</h3>
 
 <img width="400" align="right" src="https://i.pinimg.com/originals/b6/b7/fd/b6b7fd021bf9e617cbc140fb73774204.gif" alt="codeinggif" >
 
