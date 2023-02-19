@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am Self-Taught Motion Designer**
 
-- ⭐️ Fav quote **I am only passionately curious." ~ Albert Einstein.**
+- ⭐️ Fav quote **"I have no special talent. I am only passionately curious." ~ Albert Einstein**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
