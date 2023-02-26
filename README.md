@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsindev369&label=Profile%20views&color=0e75b6&style=flat" alt="mohsindev369" /> </p>
 
-- 🔭 I’m currently doing freelancing on [Fiverr](https://www.fiverr.com/kasper290)
+- 🔭 I’m currently doing freelancing on [Fiverr]()
 
 - 🌱 I’m currently learning **React Native, Docker, Blockchain**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m open to [freelance work](https://www.upwork.com/freelancers/~012d367841efa759c1)
 
-- 🏆 Level 2 seller on Fiverr [https://www.fiverr.com/kasper290](https://www.fiverr.com/kasper290)
+- 🏆 Level 2 seller on Fiverr []()
 
 - 💬 Ask me about **React.js, Node.js, Javascript**
 
