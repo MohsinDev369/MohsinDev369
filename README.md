@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently doing freelancing on [Fiverr]()
 
-- 🌱 I’m currently learning **React Native, Docker, Blockchain**
+- 🌱 I’m currently learning **Metaverse, Docker, Blockchain**
 
 - 👯 I’m looking to collaborate on [UpWork](https://www.upwork.com/freelancers/~012d367841efa759c1)
 
@@ -17,7 +17,7 @@
 
 - 🏆 Level 2 seller on Fiverr []()
 
-- 💬 Ask me about **React.js, Node.js, Javascript**
+- 💬 Ask me about **React.js, Node.js, Deno.js, Typescript**
 
 - 📫 How to reach me **mohsindev369@gmail.com**
 
