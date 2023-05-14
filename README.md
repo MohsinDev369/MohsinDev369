@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently doing freelancing on [Fiverr]()
 
-- 🌱 I’m currently learning **Metaverse, Docker, Blockchain**
+- 🌱 I’m currently learning **Metaverse, Cloud, Blockchain**
 
 - 👯 I’m looking to collaborate on [UpWork](https://www.upwork.com/freelancers/~012d367841efa759c1)
 
