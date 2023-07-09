@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React.js, Node.js, Deno.js, Typescript**
 
-- 📫 How to reach me **mohsindev369@gmail.com**
+- 📫 How to reach me **mohsinakrambukhari@gmail.com**
 
 - ⚡ Fun fact **I am Self-Taught Motion Designer**
 
