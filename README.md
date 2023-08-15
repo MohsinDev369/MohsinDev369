@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsindev369&label=Profile%20views&color=0e75b6&style=flat" alt="mohsindev369" /> </p>
 
-- 🔭 I’m currently doing freelancing on [Fiverr](https://www.fiverr.com/kasper290)
+- 🔭 I’m currently doing freelancing on <a href="https://www.fiverr.com/kasper290" target="_blank">Fiverr</a>
 
 - 🌱 I’m currently learning **Metaverse, Cloud, Blockchain**
 
