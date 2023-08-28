@@ -17,7 +17,7 @@
 
 - 🏆 Level 2 seller on Fiverr []()
 
-- 💬 Ask me about **React.js, Node.js, Deno.js, Typescript**
+- 💬 Ask me about **React.js, AI, Deno.js, Typescript**
 
 - 📫 How to reach me **mohsindev369@gmail.com**
 
